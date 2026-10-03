@@ -4,7 +4,7 @@
 $ErrorActionPreference = 'Stop'
 
 # ---- PASTE YOUR EXE DOWNLOAD LINK HERE (after step 2) ----
-$exeUrl = 'https://github.com/YOUR-NAME/AqilanTools/releases/latest/download/AqilanTools.exe'
+$exeUrl = 'https://github.com/Aqilan/AqilanTools/releases/latest/download/AqilanTools.exe'
 # ----------------------------------------------------------
 
 $exePath = Join-Path $env:TEMP 'AqilanTools.exe'
